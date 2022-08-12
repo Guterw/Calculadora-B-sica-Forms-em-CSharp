@@ -1,0 +1,17 @@
+C:\Users\aluno\Desktop\Projeto Luccas C#\CalculadoraForms\bin\Debug\net6.0-windows\CalculadoraForms.exe
+C:\Users\aluno\Desktop\Projeto Luccas C#\CalculadoraForms\bin\Debug\net6.0-windows\CalculadoraForms.deps.json
+C:\Users\aluno\Desktop\Projeto Luccas C#\CalculadoraForms\bin\Debug\net6.0-windows\CalculadoraForms.runtimeconfig.json
+C:\Users\aluno\Desktop\Projeto Luccas C#\CalculadoraForms\bin\Debug\net6.0-windows\CalculadoraForms.dll
+C:\Users\aluno\Desktop\Projeto Luccas C#\CalculadoraForms\bin\Debug\net6.0-windows\CalculadoraForms.pdb
+C:\Users\aluno\Desktop\Projeto Luccas C#\CalculadoraForms\obj\Debug\net6.0-windows\CalculadoraForms.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Projeto Luccas C#\CalculadoraForms\obj\Debug\net6.0-windows\CalculadoraForms.Form1.resources
+C:\Users\aluno\Desktop\Projeto Luccas C#\CalculadoraForms\obj\Debug\net6.0-windows\CalculadoraForms.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Projeto Luccas C#\CalculadoraForms\obj\Debug\net6.0-windows\CalculadoraForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\Projeto Luccas C#\CalculadoraForms\obj\Debug\net6.0-windows\CalculadoraForms.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\Projeto Luccas C#\CalculadoraForms\obj\Debug\net6.0-windows\CalculadoraForms.AssemblyInfo.cs
+C:\Users\aluno\Desktop\Projeto Luccas C#\CalculadoraForms\obj\Debug\net6.0-windows\CalculadoraForms.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Projeto Luccas C#\CalculadoraForms\obj\Debug\net6.0-windows\CalculadoraForms.dll
+C:\Users\aluno\Desktop\Projeto Luccas C#\CalculadoraForms\obj\Debug\net6.0-windows\refint\CalculadoraForms.dll
+C:\Users\aluno\Desktop\Projeto Luccas C#\CalculadoraForms\obj\Debug\net6.0-windows\CalculadoraForms.pdb
+C:\Users\aluno\Desktop\Projeto Luccas C#\CalculadoraForms\obj\Debug\net6.0-windows\CalculadoraForms.genruntimeconfig.cache
+C:\Users\aluno\Desktop\Projeto Luccas C#\CalculadoraForms\obj\Debug\net6.0-windows\ref\CalculadoraForms.dll
